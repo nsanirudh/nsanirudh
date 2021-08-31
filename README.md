@@ -1,21 +1,10 @@
 ### Hi there 👋
 
-<!--
-**nsanirudh/nsanirudh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img align="center" src="https://user-images.githubusercontent.com/47661086/95878795-383ff000-0d93-11eb-8ec7-ce59580b4218.gif" height="300" width="400" />
+- 🔭 I’m currently working on Jiffi and ML,Ai Stuff
+- 🌱 I’m currently learning React, Flutter
+- 💬 Ask me about Music
+- 📫 How to reach me: email
+- ⚡ Fun fact: I can DJ and Dance longer than my coder friends
 
 <a href="https://github.com/nsanirudh">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsanirudh&title_color=ffffff&text_color=ffffff&bg_color=0F2027" />
