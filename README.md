@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Jiffi and ML,Ai Stuff
+- 🔭 I’m currently working on Jiffi and ML, Ai Stuff
 - 🌱 I’m currently learning React, Flutter
 - 💬 Ask me about Music
 - 📫 How to reach me: email
