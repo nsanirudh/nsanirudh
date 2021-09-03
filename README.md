@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Jiffi and ML, Ai Stuff
-- 🌱 I’m currently learning React, Flutter
+- 🌱 I’m currently learning React, Flutter, Django
 - 💬 Ask me about Music
 - 📫 How to reach me: email
 - ⚡ Fun fact: I can DJ and Dance longer than most of my coder friends
