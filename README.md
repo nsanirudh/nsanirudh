@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Jiffi and ML, Ai Stuff
 - 🌱 I’m currently learning React, Flutter, Django
 - 💬 Ask me about Music
-- 📫 How to reach me: email
+- 📫 How to reach me: anirudh.srinivas212@gmail.com
 - ⚡ Fun fact: I can DJ and Dance longer than most of my coder friends
 
 <a href="https://github.com/nsanirudh">
